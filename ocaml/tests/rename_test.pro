@@ -1,1 +1,0 @@
-p(Z, h(Z, W), f(W)) :- r(X, XX), q(XX).
