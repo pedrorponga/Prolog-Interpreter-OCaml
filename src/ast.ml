@@ -1,7 +1,6 @@
 (* Project Path *)
 let path =
-  "/mnt/c/Users/Pedro \
-   R-Ponga/OneDrive/DobleGrado/SorbonneDG/ProgComparee/pcomp-2021-projet-prolog/ocaml/"
+  "."
 ;;
 
 (* Termes *)
