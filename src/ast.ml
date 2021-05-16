@@ -1,7 +1,5 @@
 (* Project Path *)
-let path =
-  "."
-;;
+let path = "."
 
 (* Termes *)
 type term =
